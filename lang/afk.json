@@ -1,0 +1,24 @@
+{
+  "AFK": {
+    "ACTION_BAR": {
+      "ru": "$PALETTE_MAIN$Вы находитесь в $PALETTE_ACCENT$AFK$PALETTE_MAIN$. Введите $PALETTE_VALUE$/back$PALETTE_MAIN$, чтобы вернуться",
+      "en": "$PALETTE_MAIN$You are $PALETTE_ACCENT$AFK$PALETTE_MAIN$. Type $PALETTE_VALUE$/back$PALETTE_MAIN$ to return",
+      "ua": "$PALETTE_MAIN$Ви перебуваєте в $PALETTE_ACCENT$AFK$PALETTE_MAIN$. Введіть $PALETTE_VALUE$/back$PALETTE_MAIN$, щоб повернутися"
+    },
+    "ALREADY_AFK": {
+      "ru": "$PALETTE_ERROR$Вы уже в AFK. Введите $PALETTE_VALUE$/back$PALETTE_ERROR$, чтобы вернуться.",
+      "en": "$PALETTE_ERROR$You are already AFK. Type $PALETTE_VALUE$/back$PALETTE_ERROR$ to return.",
+      "ua": "$PALETTE_ERROR$Ви вже в AFK. Введіть $PALETTE_VALUE$/back$PALETTE_ERROR$, щоб повернутися."
+    },
+    "ENTER_FAILED": {
+      "ru": "$PALETTE_ERROR$Не удалось перейти в AFK. Попробуйте позже.",
+      "en": "$PALETTE_ERROR$Failed to go AFK. Try again later.",
+      "ua": "$PALETTE_ERROR$Не вдалося перейти в AFK. Спробуйте пізніше."
+    },
+    "RETURN_FAILED": {
+      "ru": "$PALETTE_ERROR$Не удалось вернуться на сервер. Попробуйте позже.",
+      "en": "$PALETTE_ERROR$Failed to return to the server. Try again later.",
+      "ua": "$PALETTE_ERROR$Не вдалося повернутися на сервер. Спробуйте пізніше."
+    }
+  }
+}
