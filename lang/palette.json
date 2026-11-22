@@ -1,0 +1,25 @@
+{
+  "PALETTE": {
+    "MAIN": {
+      "ru": "<#e4eef7>"
+    },
+    "SECONDARY": {
+      "ru": "<#8fa4b8>"
+    },
+    "ACCENT": {
+      "ru": "<#3fc8ff>"
+    },
+    "VALUE": {
+      "ru": "<#ffd36b>"
+    },
+    "SUCCESS": {
+      "ru": "<#5dea8b>"
+    },
+    "WARNING": {
+      "ru": "<#ffb347>"
+    },
+    "ERROR": {
+      "ru": "<#ff5c5c>"
+    }
+  }
+}
